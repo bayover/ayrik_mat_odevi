@@ -1,0 +1,33 @@
+kalfat 3391
+yarenler 1986
+gudumlu 4578
+hisar 1962
+karadere 5254
+tepediyar 8876
+ortakent 8219
+ortadere 1668
+kalegol 6614
+gebeler 9594
+cakallar 5909
+adrasan 5384
+bitez 5286
+kalekoy 2856
+yesilyurt 2839
+faralya 2680
+uzungol 2364
+birgi 2638
+kursunlu 4293
+kizilca 9283
+madenli 4362
+sumucak 5397
+cirdak 8366
+bozkus 4933
+demirli 321
+susuz 747
+alpsari 1990
+karatepe 5399
+yenice 2398
+yuklu 8905
+
+
+
