@@ -19,7 +19,7 @@ int i,temp,sonuc1,sonuc2,baraj=5000;
 
 main()
 {
-	int t=0;
+	
 	veriCek();
 	kumeOlustur();
 	printf("Belediye olabilecek ve olamayacak koyler\n\n");
@@ -29,6 +29,7 @@ main()
 	printf("Belediye olamayacak koyler ilk kume sirasi:\n");
 	altKumeYazdir();
 	
+	int t=0;
 	while(t!=1)
 	{
 	  veriCek();
